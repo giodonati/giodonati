@@ -1,7 +1,7 @@
 ## Falae Rapaziada🤙
 
 
-- 📚 Aprendendo sobre Front-end e Banco de Dados
+- 📚 Aprendendo Front-end e Banco de Dados
 - 💬 Me chame para conversar sobre paternidade, livros, podcasts, ciclismo e inovação
 
 <div align="left">
