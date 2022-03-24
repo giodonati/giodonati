@@ -2,7 +2,7 @@
 
 
 - 📚 Aprendendo Front-end e Banco de Dados
-- 💬 Me chame para conversar sobre paternidade, livros, podcasts, ciclismo e inovação
+- 💬 Apenas um rapaz, latino americano.
 
 <div align="left">
   <a href="https://github.com/giodonati">
