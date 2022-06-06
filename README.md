@@ -1,8 +1,8 @@
-## Falae Rapaziada🤙
+## Estudande de Programação e entusiasta da inovação 📚💡
 
 
-- 📚 Aprendendo Front-end e Banco de Dados
-- 💬 Apenas um rapaz, latino americano.
+- 📚 MySQL, MongoDB, JavaScript, Python, React.
+- 💬 Cursando o penúltimo semestre de Análise e Desenvolvimento de Sistemas.
 
 <div align="left">
   <a href="https://github.com/giodonati">
