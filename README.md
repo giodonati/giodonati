@@ -1,8 +1,7 @@
-## Estudande de Programação e entusiasta da inovação 📚💡
+## Estudande nas áreas tecnológicas e entusiasta da inovação 📚💡
 
 
-- 📚 MySQL, MongoDB, JavaScript, Python, React.
-- 💬 Cursando o penúltimo semestre de Análise e Desenvolvimento de Sistemas.
+- 📚 Graduando em Análise e Desenvolvimento de Sistemas.
 
 <div align="left">
   <a href="https://github.com/giodonati">
