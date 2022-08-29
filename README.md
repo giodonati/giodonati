@@ -1,7 +1,4 @@
-## Estudande nas áreas tecnológicas e entusiasta da inovação 📚💡
-
-
-- 📚 Graduando em Análise e Desenvolvimento de Sistemas.
+## 📚 Graduando em Análise e Desenvolvimento de Sistemas.
 
 <div align="left">
   <a href="https://github.com/giodonati">
